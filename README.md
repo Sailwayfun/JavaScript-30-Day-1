@@ -6,7 +6,7 @@ This prjoect is based on the JavaScript 30 program established by Wes Bos from t
 
 
 # Developer notes
-Although the drum kit can absolutely be built by just Vanilla JavaScript, I try to use it as an oppurrtunity to practice breaking App down to separate component, 
+Although the drum kit can absolutely be built by just Vanilla JavaScript, I try to use it as an oppurtunity to practice breaking App down to separate component, 
 and the use of CSS modules. There's also a little useEffect in the App.
 
 
