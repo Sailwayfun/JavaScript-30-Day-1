@@ -10,5 +10,5 @@ Although the drum kit can absolutely be built by just Vanilla JavaScript, I try 
 and the use of CSS modules. There's also a little useEffect in the App.
 
 
-#How to interact with the drums
+# How to interact with the drums
 Press keyboard keys with the corresponding key names, and you can hear the drum sounds, with a flashy animation of 500 ms.
